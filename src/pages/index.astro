@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import PostBbdd from "../components/Post.astro";
+
 const respuesta = await fetch("http://localhost:3000/ciudad");
 const galeri = await respuesta.json();
 ---
@@ -12,7 +13,6 @@ const galeri = await respuesta.json();
     <link rel="icon" href="/favicon.ico" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <link rel="stylesheet" href="/carusel/_astro/index.DeHSkvQR.css" />
     <title>Astro</title>
 </head>
   
