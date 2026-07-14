@@ -1,0 +1,38 @@
+/* ==========================================================================
+   1. IMPORTAMOS LAS FUENTES EN PRIMER LUGAR
+   ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Prata&family=Viaoda+Libre&display=swap');
+
+/* ==========================================================================
+   2. CORE DE TAILWIND Y PLUGINS
+   ========================================================================== */
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography"; 
+@plugin "@tailwindcss/forms";     
+@plugin "tailwindcss-animate";    
+
+/* ==========================================================================
+   3. CONFIGURACIÓN DEL TEMA (Colores, Fuentes, Variables)
+   ========================================================================== */
+@theme {
+  --color-brand-wine: #2d111e;       
+  --color-brand-rose: #fff5f8;       
+  --color-brand-glow: #e09cb5; 
+  
+  --font-display: "Prata", serif;
+  --font-card: "Viaoda Libre", serif;
+}
+
+/* ==========================================================================
+   4. PERSONALIZACIÓN DE LA BASE (Etiquetas HTML Nativas)
+   ========================================================================== */
+@layer base {
+   h1 {
+      font-family: var(--font-display);
+      font-weight: 400;
+      font-style: normal;
+      letter-spacing: 0.25rem; 
+      text-transform: uppercase;
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "ciudad": [
+    {
+        "name": "Madrid",
+        "image": "./img/madrid.jpg",
+        "info": [
+            "País: España",
+            "Estado: Capital oficial del Reino de España",
+            "Famoso por: El Museo del Prado y el Palacio Real",
+            "Población: Aproximadamente 3.3 millones de habitantes",
+            "Idioma oficial: Español (Castellano)"
+        ]
+    },
+    {
+        "name": "Edimburgo",
+        "image": "./img/edimburgo.jpg",
+        "info": [
+            "País: Escocia (Reino Unido)",
+            "Estado: Capital histórica y cultural de Escocia",
+            "Famoso por: El Castillo de Edimburgo y el festival Fringe",
+            "Población: Aproximadamente 500,000 habitantes",
+            "Idioma oficial: Inglés y Gaélico escocés"
+        ]
+    },
+    {
+        "name": "Lisboa",
+        "image": "./img/lisboa.jpg",
+        "info": [
+            "País: Portugal",
+            "Estado: Capital y ciudad más grande de Portugal",
+            "Famoso por: La Torre de Belém y los tranvías amarillos",
+            "Población: Aproximadamente 540,000 habitantes",
+            "Idioma oficial: Portugués"
+        ]
+    },
+    {
+        "name": "Ámsterdam",
+        "image": "./img/amsterdam.jpg",
+        "info": [
+            "País: Países Bajos (Holanda)",
+            "Estado: Capital oficial del reino",
+            "Famoso por: Sus canales históricos, bicicletas y museos de arte",
+            "Población: Aproximadamente 870,000 habitantes",
+            "Idioma oficial: Neerlandés"
+        ]
+    },
+    {
+        "name": "París",
+        "image": "./img/paris.jpg",
+        "info": [
+            "País: Francia",
+            "Estado: Capital de la República Francesa",
+            "Famoso por: La Torre Eiffel, El Museo del Louvre y su gastronomía",
+            "Población: Aproximadamente 2.1 millones de habitantes",
+            "Idioma oficial: Francés"
+        ]
+    }, 
+    {
+        "name": "Atenas",
+        "image": "./img/atenas.jpg",
+        "info": [
+            "País: Grecia",
+            "Estado: Capital de la República Helénica",
+            "Famoso por: La Acrópolis, el Partenón y su historia antigua",
+            "Población: Aproximadamente 3.1 millones de habitantes",
+            "Idioma oficial: Griego"
+        ]
+    },
+    {
+        "name": "Budapest",
+        "image": "./img/budapest.jpg",
+        "info": [
+            "País: Hungría",
+            "Estado: Capital y motor económico del país",
+            "Famoso por: El Parlamento a orillas del Danubio y sus baños termales",
+            "Población: Aproximadamente 1.7 millones de habitantes",
+            "Idioma oficial: Húngaro"
+        ]
+    },
+    {
+        "name": "Londres",
+        "image": "./img/londres.jpg",
+        "info": [
+            "País: Reino Unido",
+            "Estado: Capital del Reino Unido y de Inglaterra",
+            "Famoso por: El Big Ben, el London Eye y el río Támesis",
+            "Población: Aproximadamente 8.9 millones de habitantes",
+            "Idioma oficial: Inglés"
+        ]
+    },
+    {
+        "name": "Praga",
+        "image": "./img/praga.jpg",
+        "info": [
+            "País: República Checa (Chequia)",
+            "Estado: Capital y ciudad más importante",
+            "Famoso por: El Puente de Carlos y su centro histórico medieval",
+            "Población: Aproximadamente 1.3 millones de habitantes",
+            "Idioma oficial: Checo"
+        ]
+    },
+    {
+        "name": "Roma",
+        "image": "./img/roma.jpg",
+        "info": [
+            "País: Italia",
+            "Estado: Capital del país y cuna del Imperio Romano",
+            "Famoso por: El Coliseo, la Fontana di Trevi y el Vaticano",
+            "Población: Aproximadamente 2.8 millones de habitantes",
+            "Idioma oficial: Italiano"
+        ]
+    },    
+    {
+        "name": "Oslo",
+        "image": "./img/oslo.jpg",
+        "info": [
+            "País: Noruega",
+            "Estado: Capital del Reino de Noruega",
+            "Famoso por: El Museo de los Barcos Vikingos, el Parque Vigeland y los fiordos",
+            "Población: Aproximadamente 700,000 habitantes",
+            "Idioma oficial: Noruego"
+        ]
+    },  
+    {
+        "name": "Bruselas",
+        "image": "./img/bruselas.jpg",
+        "info": [
+            "País: Bélgica",
+            "Estado: Capital del Reino de Bélgica и sede de la EU",
+            "Famoso por: El Atomium, la Grand-Place, los chocolates y los gofres",
+            "Población: Aproximadamente 1.2 millones de habitantes (región capital)",
+            "Idioma oficial: Neerlandés y Francés"
+        ]
+    },    
+    {
+        "name": "Berlín",
+        "image": "./img/berlin.jpg",
+        "info": [
+            "País: Alemania",
+            "Estado: Capital de la República Federal de Alemania",
+            "Famoso por: El Muro de Berlín, la Puerta de Brandeburgo y su vida cultural",
+            "Población: Aproximadamente 3.7 millones de habitantes",
+            "Idioma oficial: Alemán"
+        ]
+    },  
+    {
+        "name": "Viena",
+        "image": "./img/viena.jpg",
+        "info": [
+            "País: Austria",
+            "Estado: Capital federal y centro cultural del país",
+            "Famoso por: Su herencia musical (Mozart, Beethoven) y palacios imperiales",
+            "Población: Aproximadamente 1.9 millones de habitantes",
+            "Idioma oficial: Alemán"
+        ]
+    }, 
+    {
+        "name": "Dublín",
+        "image": "./img/dublin.jpg",
+        "info": [
+            "País: Irlanda",
+            "Estado: Capital de la República de Irlanda",
+            "Famoso por: El Trinity College, el Guinness Storehouse y los pubs de Temple Bar",
+            "Población: Aproximadamente 1.2 millones de habitantes",
+            "Idioma oficial: Irlandés и Inglés"
+        ]
+    }
+  ]
+}
